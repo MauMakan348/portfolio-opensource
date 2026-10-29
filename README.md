@@ -30,6 +30,19 @@ Melalui proyek ini, saya ingin memahami cara mengelola perubahan kode menggunaka
 
 Repositori ini dibuat sebagai portofolio praktikum mata kuliah Open Source. Isinya mencakup latihan Git dasar, dokumentasi, dan jadwal kuliah dalam file `jadwal.md`.
 
+## Catatan Workflow Git
+
+Dalam proyek ini, Git digunakan untuk mencatat perubahan berkas dari waktu ke waktu. Setiap commit sebaiknya memiliki pesan yang jelas agar riwayat pengembangan mudah dipahami.
+
+- **Working directory:** tempat mengubah berkas proyek.
+- **Staging area:** tempat menyiapkan perubahan sebelum commit menggunakan `git add`.
+- **Commit:** catatan perubahan yang disimpan dalam riwayat Git.
+- **Branch:** jalur pengembangan terpisah untuk mengerjakan fitur.
+- **Merge:** proses menggabungkan perubahan dari satu branch ke branch lainnya.
+- **GitHub:** layanan untuk menyimpan repositori Git secara daring dan berkolaborasi.
+
+Pesan commit proyek ini menggunakan pola Conventional Commits, misalnya `docs:` untuk dokumentasi dan `feat:` untuk penambahan fitur.
+
 ---
 
 *Dibuat untuk keperluan pembelajaran mata kuliah Open Source.*
