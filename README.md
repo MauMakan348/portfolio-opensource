@@ -24,7 +24,7 @@ Saya tertarik mempelajari:
 
 ## Tujuan Belajar Open Source
 
-Melalui proyek ini, saya ingin memahami cara mengelola kode menggunakan Git, membuat riwayat commit yang terstruktur, menerapkan branching dan merging, serta memublikasikan proyek di GitHub.
+Melalui proyek ini, saya ingin memahami cara mengelola perubahan kode menggunakan Git, menulis pesan commit yang jelas dengan Conventional Commits, membuat branch untuk mengembangkan fitur, melakukan merge, dan memublikasikan proyek ke GitHub. Saya juga ingin membiasakan diri mendokumentasikan proses pengembangan perangkat lunak secara terstruktur.
 
 ## Proyek Ini
 
